@@ -1,6 +1,6 @@
 # SimpleVolumeEditor
 
-This project implements a simple Volume / AABB gizmo for Unity Editor. The code uses **BoxBoundsHandle** Unity class for handle interaction and rendering.
+This project implements a simple Volume / AABB gizmo for Unity Editor. The code uses **BoxBoundsHandle** Unity class for handling interaction and rendering.
 
 The gizmo is implmeneted in SimpleVolumeEditor.cs file.
 
